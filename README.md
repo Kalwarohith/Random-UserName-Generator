@@ -81,5 +81,5 @@ Contributions are welcome! Feel free to **fork the repository**, make improvemen
 ## 📬 Contact
 For any questions or suggestions, reach out via:
 📧 Email:kalwarohith45@gmail.com
-🌐 GitHub: [your-username](https://github.com/Kalwarohith)
+🌐 GitHub: [Kalwarohith](https://github.com/Kalwarohith)
 
